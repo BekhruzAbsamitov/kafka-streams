@@ -52,6 +52,7 @@ public class KafkaStreamsTask2 {
     public KStream<Integer, String> printStreams(KStream<Integer, String> wordsShortKStream,
                                                  KStream<Integer, String> wordsLongKStream) {
         KStream<Integer, String> mergedStreams = wordsShortKStream.merge(wordsLongKStream);
+        mergedStreams.to("task2-2");
         mergedStreams.foreach(((key, value) -> log.info("Print - Key: {} | Value: {}", key, value)));
         return mergedStreams;
     }

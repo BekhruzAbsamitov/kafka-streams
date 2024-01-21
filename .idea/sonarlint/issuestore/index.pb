@@ -38,10 +38,6 @@ g
 7src/main/java/com/epam/processor/KafkaStreamsTask4.java,d/1/d1beed06143ff7365e928a24872ca4229a349aee
 d
 4src/main/java/com/epam/serdes/CustomObjectSerde.java,b/6/b6c5530ae13dfff4ce809867d9e0ce807c134189
-`
-0src/main/java/com/epam/serdes/EmployeeSerde.java,c/1/c16f6b3054e4db38eb49ec5df3233ed4f2bb2a5d
-W
-'src/main/java/com/epam/serdes/Main.java,8/d/8d1c841fa6a53b5fb2fb0afd4bfdba50ee1df2e2
 Å
 Q.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35,2/5/25f6469773b9f3ebb994178c1114a60412389f58
 w
@@ -62,3 +58,7 @@ G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b/4/b4
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 Å
 Q.idea/sonarlint/securityhotspotstore/0/5/05efc8b1657769a27696d478ded1e95f38737233,2/5/2534b7ffebad46793fc4d77da07aca83b23dd835
+a
+1src/test/java/com/epam/KafkaStreamsTask2Test.java,f/c/fc0061e708321a13455456948c1f379efadf1efb
+a
+1src/test/java/com/epam/KafkaStreamsTask4Test.java,1/7/173527e0c4724e3a130dbe785824ca3f76d3e7c8

@@ -1,0 +1,5 @@
+spring:
+  kafka:
+    streams:
+      application-id: test-app
+      bootstrap-servers: dummy:9092
